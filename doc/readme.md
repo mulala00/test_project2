@@ -10,3 +10,4 @@
 2016-08-15 09:09:31.0: Hello from:Git Hub Doc Directory Edit and Push
 2016-08-15 17:05:03.0: Hello from:Git Hub Doc Directory Edit and Push
 2016-08-16 14:20:38.0: Hello from:Read Me File Edit and Push
+2016-08-17 13:21:38.0: Hello from:Read Me File Edit and Push
